@@ -20,7 +20,7 @@ const App = () => {
     <div className="App">
       <table>
         <tr>
-          <th>#</th>
+          <th>##</th>
           <th>Name</th>
           <th>Email</th>
           <th>Username</th>
