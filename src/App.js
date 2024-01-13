@@ -21,7 +21,7 @@ const App = () => {
       <table>
         <tr>
           <th>#</th>
-          <th>Name</th>
+          <th>Names</th>
           <th>Email</th>
           <th>Username</th>
         </tr>
